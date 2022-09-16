@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/googleclone/static/css/main.11de6a78.css",
+    "main.js": "/googleclone/static/js/main.7d93d01f.js",
+    "index.html": "/googleclone/index.html",
+    "main.11de6a78.css.map": "/googleclone/static/css/main.11de6a78.css.map",
+    "main.7d93d01f.js.map": "/googleclone/static/js/main.7d93d01f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11de6a78.css",
+    "static/js/main.7d93d01f.js"
+  ]
+}
