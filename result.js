@@ -1,3 +1,4 @@
+const aptCommand = 'sudo apt update'
 function myFunction() {
   var txt;
   if (confirm("Please Press a button!")) {
